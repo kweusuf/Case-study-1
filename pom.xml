@@ -32,7 +32,7 @@
 	<dependency>
 	    <groupId>com.jcraft</groupId>
 	    <artifactId>jsch</artifactId>
-	    <version>0.1.54</version>
+	    <version>0.1.55</version>
 	</dependency>
  	<!-- https://mvnrepository.com/artifact/org.ow2.xlcloud/ssh-client -->
 <!-- https://mvnrepository.com/artifact/sshtools/j2ssh-core -->
